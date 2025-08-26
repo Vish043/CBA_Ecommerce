@@ -36,3 +36,5 @@ This will open two terminals: one for the backend (http://localhost:5000), one f
 
 ---
 **Project for CBA India Internship (GRP)**
+# CBA_Ecommerce
+The is a Ecommerce project build for task given by CBA. 
